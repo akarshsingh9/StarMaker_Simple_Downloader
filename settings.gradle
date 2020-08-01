@@ -1,0 +1,2 @@
+rootProject.name='Star Maker Simple Downloader'
+include ':app'

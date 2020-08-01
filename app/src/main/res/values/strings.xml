@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Star Maker Simple Downloader</string>
+    <string name="copy_link_from_star_maker">Copy Link from Star Maker</string>
+    <string name="song_name">Song Name</string>
+    <string name="mp3">MP3</string>
+    <string name="mp4">MP4</string>
+    <string name="download">Download</string>
+    <string name="open_file_location">Open File Location</string>
+</resources>
